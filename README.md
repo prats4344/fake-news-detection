@@ -14,16 +14,28 @@ A machine learning model that classifies news articles as **Fake** or **Real** u
   - Random Forest
   - Gradient Boosting Classifier
 - ✅ Built-in `manual_testing()` function for real-time testing
+
 ---
+
 📁 Dataset Source
 Fake and Real News Dataset - Kaggle
+
 ---
+
 📊 Model Performance
 Achieved ~97% accuracy across multiple classifiers
 
 Evaluated using classification reports and confusion matrices
 
 Handles real-sounding and absurd headlines to detect fakes
+
+---
+🧰 Tech Stack
+Language: Python
+
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+
+Notebook: Google Colab
 
 ---
 
